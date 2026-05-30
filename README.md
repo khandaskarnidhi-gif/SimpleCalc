@@ -23,4 +23,4 @@ calculator/
 
 ## Live Demo
 
-🔗 Deployment Link: https://your-vercel-link.vercel.app
+🔗 Deployment Link: https://simplecalc-six.vercel.app
